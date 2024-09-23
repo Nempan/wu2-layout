@@ -1,0 +1,1 @@
+Jag tog bort <br> och lade padding runt listorna istället för att ha radbrytning
